@@ -1,3 +1,3 @@
-# invadex_workshop_on_progress
+# invadex_workshop
 
-This is just a demo repository to teach basic concepts of git and github.
+This was just a demo repository to teach basic concepts of git and github.
